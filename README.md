@@ -1,4 +1,4 @@
-# Networking-IT-Technical-Support-
+# Networking-And-Technical-Support-
 ## Overview
 This project was completed as part of a Digital Skills and IT bootcamp. It focuses on the basics of networking and IT technical support, providing a hands-on demonstration of essential skills needed in an entry-level IT support role.
 
